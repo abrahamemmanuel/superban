@@ -1,0 +1,19 @@
+{
+    "name": "emmanuelabraham/superban",
+    "description": "Laravel rate limiter",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Emmanuelabraham\\Superban\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Emmanuel Abraham",
+            "email": "sundayemmanuelabraham@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^8.18"
+    }
+}
