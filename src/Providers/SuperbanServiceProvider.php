@@ -1,6 +1,6 @@
 <?php
 
-namespace Emmanuelabraham\Superban;
+namespace Emmanuelabraham\Superban\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use Emmanuelabraham\Superban\Drivers\RedisDriver;
